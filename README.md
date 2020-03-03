@@ -1,2 +1,2 @@
-# maps-application
-The application is build in TypeScript 
+# Fetch Todos app
+The application is build React-Redux-Typescript
